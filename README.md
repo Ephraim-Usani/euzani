@@ -1,2 +1,1 @@
 # euzani
-print("Hello World")
