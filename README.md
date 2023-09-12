@@ -1,1 +1,2 @@
 # euzani
+print("Hello World")
